@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a wine cellar manager<br>👯 I’m looking to collaborate on on website ideas<br>🤝 I’m looking for help with any website ideas<br>🌱 I’m currently learning node.js<br>💬 Ask me about C (god i love C)<br>
+🔭 I’m currently working on myself<br>👯 I’m looking to collaborate with Putin<br>🤝 I’m looking for help with the voices in my head<br>🌱 I’m currently thinking about kms<br>💬 Ask me about .asm<br>
 
 
 ## 🌐 Socials:
