@@ -4,9 +4,9 @@
 
 [cite_start]Étudiant en troisième année de **Développement Web et Application Mobile** à l'Efrei Paris, je suis à la recherche active d'une **alternance** dans ce domaine. [cite_start]Mon objectif est de mettre en pratique mes compétences techniques et d'approfondir mon expérience professionnelle au sein d'une équipe dynamique.
 
-* [cite_start]🎓 **Formation:** Bachelor Développement Web et Application à l'Efrei Paris (en cours) [cite: 36]
-* [cite_start]📍 **Localisation:** Mennecy [cite: 2]
-* [cite_start]🇬🇧 **Anglais:** Niveau B2 (TOEIC: 860) [cite: 38]
+* 🎓 **Formation:** Bachelor Développement Web et Application à l'Efrei Paris (en cours) 
+* 📍 **Localisation:** Paris
+* 🇬🇧 **Anglais:** Niveau B2 (TOEIC: 860)
 
 ## 🌐 Contact
 
@@ -14,7 +14,7 @@
 
 ## 💻 Compétences Techniques
 
-### [cite_start]Frontend [cite: 6]
+### Frontend 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -23,7 +23,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### [cite_start]Backend [cite: 7]
+### Backend
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -31,19 +31,19 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-### [cite_start]Système & Scripts [cite: 8]
+### Système & Script
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### [cite_start]Bases de données [cite: 9]
+### Bases de données
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-### [cite_start]Outils & Environnements [cite: 10]
+### Outils & Environnements
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
