@@ -1,5 +1,4 @@
-# [cite_start]Erwan Maréchal [cite: 1]
-
+# Erwan Maréchal
 ## 👋 À propos de moi
 
 Étudiant en troisième année de **Développement Web et Application Mobile** à l'Efrei Paris, je suis à la recherche active d'une **alternance** dans ce domaine. Mon objectif est de mettre en pratique mes compétences techniques et d'approfondir mon expérience professionnelle au sein d'une équipe dynamique.
