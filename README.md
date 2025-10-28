@@ -11,8 +11,6 @@
 ## 🌐 Contact
 
 [![Email](https://img.shields.io/badge/Email-erwan.a.marechal@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:erwan.a.marechal@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/canul8816) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/presque_erwan)
 
 ## 💻 Compétences Techniques
 
